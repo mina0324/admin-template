@@ -1,6 +1,6 @@
 ## 简介
 
-使用了`vue3+` `vite` `Element UI` `TypeScript` `Tailwind CSS`
+使用了`vue3+` `vite` `Element UI` `TypeScript` `ECharts`
 
 ## 安装使用
 
